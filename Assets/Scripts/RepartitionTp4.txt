@@ -1,0 +1,12 @@
+Mathieu : 
+
+Ajout et contrôle des animations
+Intégrer les interfaces
+Intégrer et confiner la caméra Cinemachine
+Mettre en place la complexification des niveaux
+
+Alex :
+Menu
+Meilleur score (tableau game over)
+Déclencheur des effets sonores
+Contrôle musical

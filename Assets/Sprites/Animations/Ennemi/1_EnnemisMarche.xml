@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1_EnnemisMarche.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence VoleurAnimMarch 10000" x="4" y="4" width="178" height="272" pivotX="90.6" pivotY="143.25"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10001" x="186" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10002" x="368" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10003" x="550" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10004" x="732" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10005" x="914" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10006" x="1096" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10007" x="1278" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10008" x="1460" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10009" x="1642" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10010" x="1824" y="4" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10011" x="4" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10012" x="186" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10013" x="368" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10014" x="550" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10015" x="732" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10016" x="914" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10017" x="1096" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10018" x="1278" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10019" x="1460" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10020" x="1642" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10021" x="1824" y="280" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10022" x="4" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10023" x="186" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10024" x="368" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10025" x="550" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10026" x="732" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10027" x="914" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10028" x="1096" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10029" x="1278" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10030" x="1460" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10031" x="1642" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10032" x="1824" y="556" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10033" x="4" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10034" x="186" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10035" x="368" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10036" x="550" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10037" x="732" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10038" x="914" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10039" x="1096" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10040" x="1278" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10041" x="1460" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10042" x="1642" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10043" x="1824" y="832" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10044" x="4" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10045" x="186" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10046" x="368" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10047" x="550" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10048" x="732" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10049" x="914" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10050" x="1096" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10051" x="1278" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10052" x="1460" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10053" x="1642" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10054" x="1824" y="1108" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10055" x="4" y="1384" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10056" x="186" y="1384" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10057" x="368" y="1384" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10058" x="550" y="1384" width="178" height="272"/>
+	<SubTexture name="Occurrence VoleurAnimMarch 10059" x="732" y="1384" width="178" height="272"/>
+</TextureAtlas>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1_EnnemisAttaque.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Occurrence VoleurAnimAttaque 10000" x="4" y="4" width="178" height="264" pivotX="74.15" pivotY="143.2"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10001" x="186" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10002" x="368" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10003" x="550" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10004" x="732" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10005" x="914" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10006" x="1096" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10007" x="1278" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10008" x="1460" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10009" x="1642" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10010" x="1824" y="4" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10011" x="4" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10012" x="186" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10013" x="368" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10014" x="550" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10015" x="732" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10016" x="914" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10017" x="1096" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10018" x="1278" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10019" x="1460" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10020" x="1642" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10021" x="1824" y="272" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10022" x="4" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10023" x="186" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10024" x="368" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10025" x="550" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10026" x="732" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10027" x="914" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10028" x="1096" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10029" x="1278" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10030" x="1460" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10031" x="1642" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10032" x="1824" y="540" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10033" x="4" y="808" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10034" x="186" y="808" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10035" x="368" y="808" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10036" x="550" y="808" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10037" x="732" y="808" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10038" x="914" y="808" width="178" height="264"/>
+	<SubTexture name="Occurrence VoleurAnimAttaque 10039" x="1096" y="808" width="178" height="264"/>
+</TextureAtlas>

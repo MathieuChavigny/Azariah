@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f1b25ca582e7664b8f9a319e1c78091, type: 3}
+  m_Name: Sauvegarde
+  m_EditorClassIdentifier: 
+  _meilleurScore1: 3000
+  _meilleurScore2: 2000
+  _meilleurScore3: 1000
+  _nomMeilleurJoueur1: Rosa
+  _nomMeilleurJoueur2: Alex
+  _nomMeilleurJoueur3: Math
+  _fichier: MeilleurScore.txt

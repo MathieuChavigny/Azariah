@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FeuAnim.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Feu0000" x="4" y="4" width="153" height="104" pivotX="76.2" pivotY="51.8"/>
+	<SubTexture name="Feu0001" x="161" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0002" x="318" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0003" x="475" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0004" x="632" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0005" x="789" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0006" x="946" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0007" x="1103" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0008" x="1260" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0009" x="1417" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0010" x="1574" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0011" x="1731" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0012" x="1888" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0013" x="632" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0014" x="475" y="4" width="153" height="104"/>
+	<SubTexture name="Feu0015" x="318" y="4" width="153" height="104"/>
+</TextureAtlas>

@@ -1,0 +1,13 @@
+Mathieu : 
+
+salle du boss
+boss
+minimap
+potion de vie
+Alex :
+
+sons
+Salle énigme
+énigme
+potion de rage
+certains assets (énigme/ sonDégatEnnemi / )

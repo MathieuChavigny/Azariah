@@ -1,0 +1,1016 @@
+fileFormatVersion: 2
+guid: c964b12d594e3954db0c38651dff7d4c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8d17b895c25aac0800000000000000
+      internalID: -3844617943787644767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10001
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be3f27540fadde730800000000000000
+      internalID: 4030117967058629611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10002
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0120ce1b68f6f5290800000000000000
+      internalID: -7899472597083225584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10003
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd7860afb3985170800000000000000
+      internalID: 8167440375475633611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10004
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f404c891623356390800000000000000
+      internalID: -7825792538755973041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10005
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fefba2d8120028bd0800000000000000
+      internalID: -2629539088328638481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10006
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1409f9032ffffc0800000000000000
+      internalID: -3458779698147868220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10007
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9364e311acf16450800000000000000
+      internalID: 6080418740680549278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10008
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea080248633f200c0800000000000000
+      internalID: -4610855653003460434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10009
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8753216e65412a700800000000000000
+      internalID: 550024467952317816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10010
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1780
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e87a19cccbc3d9fa0800000000000000
+      internalID: -5792406764144973938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10011
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bcbed2a73fb098c0800000000000000
+      internalID: -3994482623801017160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10012
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33018b101c7188320800000000000000
+      internalID: 2560322505885093939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10013
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0686986deefdb5d20800000000000000
+      internalID: 3268452171481966688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10014
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259b4699743108c70800000000000000
+      internalID: 8971191655959148882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10015
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a934ea5db01ee4ef0800000000000000
+      internalID: -121912698946567270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10016
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9d4407abc1a8e40800000000000000
+      internalID: 5659367468817504681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10017
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8814f538f1f834030800000000000000
+      internalID: 3477780702770971016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10018
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e55d4cf8e36e6b0800000000000000
+      internalID: -5267453926959653254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10019
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68b050d4a00b00b0800000000000000
+      internalID: -5761510590420830098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10020
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58ef04b74008b1b0800000000000000
+      internalID: -5640758225317926820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10021
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1512
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2755c67945c0c540800000000000000
+      internalID: 5026234103461402411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10022
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3156a232fd1471250800000000000000
+      internalID: 5915269062197929235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10023
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21899e64ba20c5d70800000000000000
+      internalID: 9033097887250749458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10024
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5080a63aa633adae0800000000000000
+      internalID: -1523848990810306555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10025
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66ea570e06ef87250800000000000000
+      internalID: 5942779400351493734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10026
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b26521cf3b832b0800000000000000
+      internalID: -5604531841041814641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10027
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b048e04dc2f9eb1d0800000000000000
+      internalID: -3333051659322489845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10028
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16172b6cda944ecf0800000000000000
+      internalID: -223973070749929119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10029
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b09b784acf285cb0800000000000000
+      internalID: -4875094050782605134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10030
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f606fbf558465e40800000000000000
+      internalID: 5644778717092120313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10031
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508e16d5f20556500800000000000000
+      internalID: 388805107197798405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10032
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1244
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99acdfd05f7c21c0800000000000000
+      internalID: -4527103540084299362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10033
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d9d0a082a6c2e80800000000000000
+      internalID: -8202064101148615377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10034
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 881533135cfcc79d0800000000000000
+      internalID: -2775114824526114424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10035
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0311a6e57dfad8190800000000000000
+      internalID: -7958511626956959440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10036
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecb70708957440a0800000000000000
+      internalID: -6898259433411330838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10037
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1444f50b3b17e4120800000000000000
+      internalID: 2399980668007171137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10038
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b39abf01fee0040800000000000000
+      internalID: 4615889524322024314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence VoleurAnimAttaque 10039
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 976
+        width: 178
+        height: 264
+      alignment: 9
+      pivot: {x: 0.41657305, y: 0.45757577}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bede173010a2a290800000000000000
+      internalID: -7880560406440255823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence VoleurAnimAttaque 10011: -3994482623801017160
+      Occurrence VoleurAnimAttaque 10026: -5604531841041814641
+      Occurrence VoleurAnimAttaque 10016: 5659367468817504681
+      Occurrence VoleurAnimAttaque 10012: 2560322505885093939
+      Occurrence VoleurAnimAttaque 10029: -4875094050782605134
+      Occurrence VoleurAnimAttaque 10007: 6080418740680549278
+      Occurrence VoleurAnimAttaque 10031: 388805107197798405
+      Occurrence VoleurAnimAttaque 10034: -2775114824526114424
+      Occurrence VoleurAnimAttaque 10020: -5640758225317926820
+      Occurrence VoleurAnimAttaque 10004: -7825792538755973041
+      Occurrence VoleurAnimAttaque 10032: -4527103540084299362
+      Occurrence VoleurAnimAttaque 10023: 9033097887250749458
+      Occurrence VoleurAnimAttaque 10025: 5942779400351493734
+      Occurrence VoleurAnimAttaque 10039: -7880560406440255823
+      Occurrence VoleurAnimAttaque 10021: 5026234103461402411
+      Occurrence VoleurAnimAttaque 10028: -223973070749929119
+      Occurrence VoleurAnimAttaque 10014: 8971191655959148882
+      Occurrence VoleurAnimAttaque 10006: -3458779698147868220
+      Occurrence VoleurAnimAttaque 10027: -3333051659322489845
+      Occurrence VoleurAnimAttaque 10037: 2399980668007171137
+      Occurrence VoleurAnimAttaque 10001: 4030117967058629611
+      Occurrence VoleurAnimAttaque 10008: -4610855653003460434
+      Occurrence VoleurAnimAttaque 10024: -1523848990810306555
+      Occurrence VoleurAnimAttaque 10038: 4615889524322024314
+      Occurrence VoleurAnimAttaque 10018: -5267453926959653254
+      Occurrence VoleurAnimAttaque 10000: -3844617943787644767
+      Occurrence VoleurAnimAttaque 10003: 8167440375475633611
+      Occurrence VoleurAnimAttaque 10002: -7899472597083225584
+      Occurrence VoleurAnimAttaque 10017: 3477780702770971016
+      Occurrence VoleurAnimAttaque 10033: -8202064101148615377
+      Occurrence VoleurAnimAttaque 10005: -2629539088328638481
+      Occurrence VoleurAnimAttaque 10030: 5644778717092120313
+      Occurrence VoleurAnimAttaque 10013: 3268452171481966688
+      Occurrence VoleurAnimAttaque 10009: 550024467952317816
+      Occurrence VoleurAnimAttaque 10010: -5792406764144973938
+      Occurrence VoleurAnimAttaque 10015: -121912698946567270
+      Occurrence VoleurAnimAttaque 10022: 5915269062197929235
+      Occurrence VoleurAnimAttaque 10019: -5761510590420830098
+      Occurrence VoleurAnimAttaque 10035: -7958511626956959440
+      Occurrence VoleurAnimAttaque 10036: -6898259433411330838
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

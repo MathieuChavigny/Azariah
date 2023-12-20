@@ -1,0 +1,500 @@
+fileFormatVersion: 2
+guid: 4bc8a9e18dbc46a4fb42b506532a42a2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Chute0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1820
+        width: 140
+        height: 224
+      alignment: 9
+      pivot: {x: 0.43285713, y: 0.29776785}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95705785846de1e0800000000000000
+      internalID: -2166965321031715426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0001
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1819
+        width: 140
+        height: 225
+      alignment: 9
+      pivot: {x: 0.43285713, y: 0.31422222}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f340a1b116c0940b0800000000000000
+      internalID: -5744046238528306113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0002
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 1819
+        width: 140
+        height: 225
+      alignment: 9
+      pivot: {x: 0.42571428, y: 0.32755554}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b3485fb7d6e0e30800000000000000
+      internalID: 4471631859192970023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0003
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1817
+        width: 142
+        height: 227
+      alignment: 9
+      pivot: {x: 0.42676055, y: 0.33348015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caeff8a472c7b4390800000000000000
+      internalID: -7833030618684326228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0004
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1816
+        width: 143
+        height: 228
+      alignment: 9
+      pivot: {x: 0.4237762, y: 0.34078947}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ade3577fa50a40800000000000000
+      internalID: 5333862260734274038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0005
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1812
+        width: 144
+        height: 232
+      alignment: 9
+      pivot: {x: 0.42083332, y: 0.35215515}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7c5722db06c8130800000000000000
+      internalID: 3570334970041190363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0006
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 1809
+        width: 155
+        height: 235
+      alignment: 9
+      pivot: {x: 0.3780645, y: 0.36893615}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95ce2e1ab0829250800000000000000
+      internalID: 5949959594568500638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0007
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1806
+        width: 168
+        height: 238
+      alignment: 9
+      pivot: {x: 0.33095238, y: 0.3852941}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63228236553e1fb50800000000000000
+      internalID: 6625326482714010166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0008
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 1803
+        width: 162
+        height: 241
+      alignment: 9
+      pivot: {x: 0.32469136, y: 0.4012448}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5e8363834d8f8f0800000000000000
+      internalID: -506421620186225197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0009
+      rect:
+        serializedVersion: 2
+        x: 1374
+        y: 1801
+        width: 159
+        height: 243
+      alignment: 9
+      pivot: {x: 0.3245283, y: 0.4144033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3024b4c2febce8850800000000000000
+      internalID: 6381261950131323395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0010
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1799
+        width: 157
+        height: 245
+      alignment: 9
+      pivot: {x: 0.32866243, y: 0.42734692}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197c5b3a8c137b820800000000000000
+      internalID: 2933868420064987025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0011
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1797
+        width: 145
+        height: 247
+      alignment: 9
+      pivot: {x: 0.35586205, y: 0.44008097}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1a6c13d5b6fde10800000000000000
+      internalID: 2224614788955546049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0012
+      rect:
+        serializedVersion: 2
+        x: 1847
+        y: 1797
+        width: 134
+        height: 247
+      alignment: 9
+      pivot: {x: 0.38507462, y: 0.4522267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07ad2a12a660ae20800000000000000
+      internalID: 3359798168428324622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0013
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1542
+        width: 123
+        height: 251
+      alignment: 9
+      pivot: {x: 0.41951218, y: 0.46095616}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f932ef8ce661fc0800000000000000
+      internalID: -3524507848834572518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0014
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1542
+        width: 112
+        height: 251
+      alignment: 9
+      pivot: {x: 0.46071428, y: 0.47290835}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bd549fe28695550800000000000000
+      internalID: 6150061317111012233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chute0015
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1541
+        width: 104
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5346154, y: 0.47896823}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be6b031045443df0800000000000000
+      internalID: -201459941825089865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Chute0006: 5949959594568500638
+      Chute0000: -2166965321031715426
+      Chute0005: 3570334970041190363
+      Chute0014: 6150061317111012233
+      Chute0002: 4471631859192970023
+      Chute0004: 5333862260734274038
+      Chute0013: -3524507848834572518
+      Chute0010: 2933868420064987025
+      Chute0001: -5744046238528306113
+      Chute0009: 6381261950131323395
+      Chute0012: 3359798168428324622
+      Chute0015: -201459941825089865
+      Chute0007: 6625326482714010166
+      Chute0003: -7833030618684326228
+      Chute0008: -506421620186225197
+      Chute0011: 2224614788955546049
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ennemi_1Idle.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VoleurIdle0000" x="4" y="4" width="128" height="273" pivotX="55.85" pivotY="143.2"/>
+	<SubTexture name="VoleurIdle0001" x="136" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0002" x="268" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0003" x="400" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0004" x="532" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0005" x="664" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0006" x="796" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0007" x="928" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0008" x="1060" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0009" x="1192" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0010" x="1324" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0011" x="1456" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0012" x="1588" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0013" x="1720" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0014" x="1852" y="4" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0015" x="4" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0016" x="136" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0017" x="268" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0018" x="400" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0019" x="532" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0020" x="664" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0021" x="796" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0022" x="928" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0023" x="1060" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0024" x="1192" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0025" x="1324" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0026" x="1456" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0027" x="1588" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0028" x="1720" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0029" x="1852" y="281" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0030" x="4" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0031" x="136" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0032" x="268" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0033" x="400" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0034" x="532" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0035" x="664" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0036" x="796" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0037" x="928" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0038" x="1060" y="558" width="128" height="273"/>
+	<SubTexture name="VoleurIdle0039" x="1192" y="558" width="128" height="273"/>
+</TextureAtlas>

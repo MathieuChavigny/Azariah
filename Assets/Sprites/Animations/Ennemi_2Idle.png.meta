@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: d74ee717e4059cd40bc19e9de7e8c2ec
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagicienIdle0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855e72f987b446730800000000000000
+      internalID: 3991398151195452760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0001
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aac191d9ad874f30800000000000000
+      internalID: 4559768908240898729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0002
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115dd4129b870070800000000000000
+      internalID: 8072574316616438038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0003
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa5038ef34ab8530800000000000000
+      internalID: 3858358100158339824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0004
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15fee11e10fff83a0800000000000000
+      internalID: -6660824940320723119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0005
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bc859a5df4433c0800000000000000
+      internalID: -4380788758436852958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0006
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbc671aaa6edeed0800000000000000
+      internalID: -2382995007281378314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0007
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ef3f821f9e4a470800000000000000
+      internalID: 8405100026563657366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0008
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c2be46c88ad380800000000000000
+      internalID: -8945687324512826904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0009
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8905eca9cac0ee060800000000000000
+      internalID: 6984534007569338520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0010
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac31589261686650800000000000000
+      internalID: 6226333560929860782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0011
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9d16116e4d211a0800000000000000
+      internalID: -6840170799423170089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0012
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e09171b42261d5e0800000000000000
+      internalID: -1886618859156172568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0013
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454e11078ea8a1420800000000000000
+      internalID: 2601544465677149268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0014
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1779
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8a608927bfa8180800000000000000
+      internalID: -9112194426435360553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0015
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e9417bacd768030800000000000000
+      internalID: 3496620470308216356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0016
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013110a74e780c070800000000000000
+      internalID: 8124643143145558800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0017
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8c80c3b0b7a1610800000000000000
+      internalID: 1592720706410956970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0018
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afc411333405ff70800000000000000
+      internalID: 9220280430024249249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0019
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6184f2c95f5c3c0800000000000000
+      internalID: -4339792614744647964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0020
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2dbfdb9d4753d50800000000000000
+      internalID: 6716402897837085399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0021
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c47053a3290dd970800000000000000
+      internalID: 8781184897110799553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0022
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08a2cccb743fe530800000000000000
+      internalID: 3886382709764958218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0023
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caede0e738f35d3a0800000000000000
+      internalID: -6641332241499758932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0024
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05252809d596e2cc0800000000000000
+      internalID: -3733931190466227632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0025
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccec3aa9f51f0250800000000000000
+      internalID: 5912968997807910087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0026
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2541a088d66a4fda0800000000000000
+      internalID: -5911917421466610606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0027
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64cf430aba49242f0800000000000000
+      internalID: -990065503219942330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0028
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f980921595172e0800000000000000
+      internalID: -2129822943653880032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0029
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 1510
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d0107e03d10ed50800000000000000
+      internalID: 6764438736181726532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0030
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e2fc19f596fe830800000000000000
+      internalID: 4102613644746894907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0031
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e03daf8e40ffa7200800000000000000
+      internalID: 178735531788260110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0032
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27d6198162e33d20800000000000000
+      internalID: 3257195864058681132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0033
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4328b1941d904e570800000000000000
+      internalID: 8494925591606952500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0034
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a7c6af504f7f170800000000000000
+      internalID: 8212300752046815870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0035
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eefe9d4e30a1e55d0800000000000000
+      internalID: -3071989291793387538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0036
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2008bb4e379fa1ce0800000000000000
+      internalID: -1433559255210033150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0037
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d820a71f9c8a820800000000000000
+      internalID: 2929813596575796553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0038
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d438d8524060600800000000000000
+      internalID: 434038973422325004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienIdle0039
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1241
+        width: 130
+        height: 265
+      alignment: 9
+      pivot: {x: 0.41115385, y: 0.4701887}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0778b1d9e07b60650800000000000000
+      internalID: 6198843210515318640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagicienIdle0005: -4380788758436852958
+      MagicienIdle0025: 5912968997807910087
+      MagicienIdle0037: 2929813596575796553
+      MagicienIdle0011: -6840170799423170089
+      MagicienIdle0023: -6641332241499758932
+      MagicienIdle0013: 2601544465677149268
+      MagicienIdle0014: -9112194426435360553
+      MagicienIdle0027: -990065503219942330
+      MagicienIdle0026: -5911917421466610606
+      MagicienIdle0021: 8781184897110799553
+      MagicienIdle0018: 9220280430024249249
+      MagicienIdle0029: 6764438736181726532
+      MagicienIdle0033: 8494925591606952500
+      MagicienIdle0012: -1886618859156172568
+      MagicienIdle0031: 178735531788260110
+      MagicienIdle0004: -6660824940320723119
+      MagicienIdle0028: -2129822943653880032
+      MagicienIdle0019: -4339792614744647964
+      MagicienIdle0024: -3733931190466227632
+      MagicienIdle0030: 4102613644746894907
+      MagicienIdle0035: -3071989291793387538
+      MagicienIdle0000: 3991398151195452760
+      MagicienIdle0036: -1433559255210033150
+      MagicienIdle0032: 3257195864058681132
+      MagicienIdle0001: 4559768908240898729
+      MagicienIdle0003: 3858358100158339824
+      MagicienIdle0007: 8405100026563657366
+      MagicienIdle0038: 434038973422325004
+      MagicienIdle0015: 3496620470308216356
+      MagicienIdle0008: -8945687324512826904
+      MagicienIdle0010: 6226333560929860782
+      MagicienIdle0017: 1592720706410956970
+      MagicienIdle0034: 8212300752046815870
+      MagicienIdle0022: 3886382709764958218
+      MagicienIdle0009: 6984534007569338520
+      MagicienIdle0016: 8124643143145558800
+      MagicienIdle0006: -2382995007281378314
+      MagicienIdle0002: 8072574316616438038
+      MagicienIdle0039: 6198843210515318640
+      MagicienIdle0020: 6716402897837085399
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

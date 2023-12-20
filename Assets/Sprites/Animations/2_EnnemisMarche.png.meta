@@ -1,0 +1,1456 @@
+fileFormatVersion: 2
+guid: 4d17d993c8782124eba308da0076e85e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MagicienAnimMarche0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78e1702ee565de20800000000000000
+      internalID: 3374715569205012605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0001
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4e3e4ac6aa38dd0800000000000000
+      internalID: -2484955185778793258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0002
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f716958f56cdf96a0800000000000000
+      internalID: -6440186611600105089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0003
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c464d8d8144c740800000000000000
+      internalID: 5171330348344560717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0004
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686723d2bf9e01310800000000000000
+      internalID: 1373855151352346246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0005
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c34a6316d8779e0800000000000000
+      internalID: -1623673691975697389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0006
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25f5c9db7cae17240800000000000000
+      internalID: 4787866022472081234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0007
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67e2e0d3e9b28140800000000000000
+      internalID: 4720539747550947178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0008
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83c1b442729fedad0800000000000000
+      internalID: -2675427182103552968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0009
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab526948b3db9a640800000000000000
+      internalID: 5091808917044209082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0010
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1778
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f59840a6aed93c0800000000000000
+      internalID: -4351063923906486426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0011
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb5c41baa122bf40800000000000000
+      internalID: 5742689491853532081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0012
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c909ef48e71cb30800000000000000
+      internalID: 4305861828414577773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0013
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa6736a7d54c96230800000000000000
+      internalID: 3632650480215357103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0014
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76adf2341e4edc870800000000000000
+      internalID: 8704865310923020903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0015
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdf6036eaed504a0800000000000000
+      internalID: -6627646436038738445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0016
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ad8df777c3fb30800000000000000
+      internalID: 4320015785747392598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0017
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c69d6b849ac8990800000000000000
+      internalID: -7382339559396643835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0018
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9994131352a0e4720800000000000000
+      internalID: 2832212370518002073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0019
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a48777a658eb500800000000000000
+      internalID: 413914908082063986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0020
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2b6e589af3326a0800000000000000
+      internalID: -6475261841900129615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0021
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1508
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d971eda22778b7c0800000000000000
+      internalID: -4055360473617303086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0022
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4af1f2d4464ab640800000000000000
+      internalID: 5096463189733931595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0023
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaee231df9372b60800000000000000
+      internalID: 7721203845261355693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0024
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228484b7db828c3a0800000000000000
+      internalID: -6645016455902902238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0025
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b437bf852691cb0800000000000000
+      internalID: -4892771385846051962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0026
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e79ed8fae20b050800000000000000
+      internalID: 5814198450470354590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0027
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eea67fcab60149a0800000000000000
+      internalID: -6250707408399192348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0028
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773907c641ccade80800000000000000
+      internalID: -8152979787310132361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0029
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03e782778878a0e0800000000000000
+      internalID: -2258422689988877553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0030
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d222b0cf075b148d0800000000000000
+      internalID: -2863808391161372115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0031
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d678b87fc7028160800000000000000
+      internalID: 7026186956316374739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0032
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1238
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef8600173a871000800000000000000
+      internalID: 6625893561044969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0033
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe443f9980f5e30800000000000000
+      internalID: 4494320410443443112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0034
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ef97a8a91bbfb50800000000000000
+      internalID: 6628086553912147605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0035
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc76d602874398230800000000000000
+      internalID: 3641499464250517452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0036
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139de9fb1ee221130800000000000000
+      internalID: 3535940204556638513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0037
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32721552acac4c870800000000000000
+      internalID: 8702303349544920867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0038
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128b3dafa9fa92bb0800000000000000
+      internalID: -4960240434403887071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0039
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e399b8d21a91bbd60800000000000000
+      internalID: 7906941750823590206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0040
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c62d237eb7d1d550800000000000000
+      internalID: 6183960976332498627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0041
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c538f080af2e19820800000000000000
+      internalID: 2923367196645098332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0042
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54376a835eb21d60800000000000000
+      internalID: 7859553565728519261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0043
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 968
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23086b9e74c6c64e0800000000000000
+      internalID: -1987094279457701838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0044
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d0e73ce160bce260800000000000000
+      internalID: 7128266244842053843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0045
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2280129019eb1560800000000000000
+      internalID: 7285673079581213230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0046
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4524426dc33fcb840800000000000000
+      internalID: 5241331508968702548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0047
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4113ff6a6683cff50800000000000000
+      internalID: 6916465141273800980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0048
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3754bea7ec77a89b0800000000000000
+      internalID: -5077113901197605517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0049
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a23b2d38e4facc0800000000000000
+      internalID: -3697650440965248417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0050
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fabe86a20a8f080800000000000000
+      internalID: -9153390138621186165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0051
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793640c1af022bb90800000000000000
+      internalID: -7227678193392262249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0052
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e711ba71e8dfda350800000000000000
+      internalID: 6029754262843232638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0053
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fcf856599b8fb5f0800000000000000
+      internalID: -738718323170542351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0054
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 698
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afe50a1866cc6730800000000000000
+      internalID: 3993785119986282405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0055
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 428
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477a67e1863908e80800000000000000
+      internalID: -8178374847907846284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0056
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 428
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8a5b4054aef3640800000000000000
+      internalID: 5062022088340383961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0057
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 428
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dcb7cd873ecdc90800000000000000
+      internalID: -7143584800681767545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0058
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 428
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f164b8a216204d440800000000000000
+      internalID: 4959591705990612511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MagicienAnimMarche0059
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 428
+        width: 179
+        height: 266
+      alignment: 9
+      pivot: {x: 0.4405028, y: 0.4721805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7bb200b699e4d0800000000000000
+      internalID: -3104784785390994783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MagicienAnimMarche0035: 3641499464250517452
+      MagicienAnimMarche0003: 5171330348344560717
+      MagicienAnimMarche0005: -1623673691975697389
+      MagicienAnimMarche0022: 5096463189733931595
+      MagicienAnimMarche0031: 7026186956316374739
+      MagicienAnimMarche0017: -7382339559396643835
+      MagicienAnimMarche0020: -6475261841900129615
+      MagicienAnimMarche0030: -2863808391161372115
+      MagicienAnimMarche0036: 3535940204556638513
+      MagicienAnimMarche0045: 7285673079581213230
+      MagicienAnimMarche0053: -738718323170542351
+      MagicienAnimMarche0044: 7128266244842053843
+      MagicienAnimMarche0014: 8704865310923020903
+      MagicienAnimMarche0028: -8152979787310132361
+      MagicienAnimMarche0039: 7906941750823590206
+      MagicienAnimMarche0010: -4351063923906486426
+      MagicienAnimMarche0012: 4305861828414577773
+      MagicienAnimMarche0021: -4055360473617303086
+      MagicienAnimMarche0056: 5062022088340383961
+      MagicienAnimMarche0027: -6250707408399192348
+      MagicienAnimMarche0057: -7143584800681767545
+      MagicienAnimMarche0055: -8178374847907846284
+      MagicienAnimMarche0015: -6627646436038738445
+      MagicienAnimMarche0013: 3632650480215357103
+      MagicienAnimMarche0025: -4892771385846051962
+      MagicienAnimMarche0054: 3993785119986282405
+      MagicienAnimMarche0024: -6645016455902902238
+      MagicienAnimMarche0052: 6029754262843232638
+      MagicienAnimMarche0042: 7859553565728519261
+      MagicienAnimMarche0009: 5091808917044209082
+      MagicienAnimMarche0008: -2675427182103552968
+      MagicienAnimMarche0018: 2832212370518002073
+      MagicienAnimMarche0038: -4960240434403887071
+      MagicienAnimMarche0007: 4720539747550947178
+      MagicienAnimMarche0011: 5742689491853532081
+      MagicienAnimMarche0049: -3697650440965248417
+      MagicienAnimMarche0000: 3374715569205012605
+      MagicienAnimMarche0026: 5814198450470354590
+      MagicienAnimMarche0037: 8702303349544920867
+      MagicienAnimMarche0023: 7721203845261355693
+      MagicienAnimMarche0040: 6183960976332498627
+      MagicienAnimMarche0006: 4787866022472081234
+      MagicienAnimMarche0033: 4494320410443443112
+      MagicienAnimMarche0043: -1987094279457701838
+      MagicienAnimMarche0032: 6625893561044969
+      MagicienAnimMarche0059: -3104784785390994783
+      MagicienAnimMarche0034: 6628086553912147605
+      MagicienAnimMarche0058: 4959591705990612511
+      MagicienAnimMarche0047: 6916465141273800980
+      MagicienAnimMarche0048: -5077113901197605517
+      MagicienAnimMarche0029: -2258422689988877553
+      MagicienAnimMarche0016: 4320015785747392598
+      MagicienAnimMarche0046: 5241331508968702548
+      MagicienAnimMarche0019: 413914908082063986
+      MagicienAnimMarche0004: 1373855151352346246
+      MagicienAnimMarche0001: -2484955185778793258
+      MagicienAnimMarche0051: -7227678193392262249
+      MagicienAnimMarche0050: -9153390138621186165
+      MagicienAnimMarche0002: -6440186611600105089
+      MagicienAnimMarche0041: 2923367196645098332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

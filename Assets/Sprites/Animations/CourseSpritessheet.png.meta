@@ -1,0 +1,1050 @@
+fileFormatVersion: 2
+guid: 0d9978f1a8ae86a46a40d4a7d1083f69
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1789
+        width: 159
+        height: 255
+      alignment: 9
+      pivot: {x: 0.3827044, y: 0.48941177}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e9d9578045c96c0800000000000000
+      internalID: -4135337962523222453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10001
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1789
+        width: 145
+        height: 255
+      alignment: 9
+      pivot: {x: 0.36448276, y: 0.47764707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c129cc04c338270800000000000000
+      internalID: 8251505191280581710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10002
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1788
+        width: 139
+        height: 256
+      alignment: 9
+      pivot: {x: 0.37302157, y: 0.46796876}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bf5a646aad85c50800000000000000
+      internalID: 6654308857124617042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10003
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1789
+        width: 132
+        height: 255
+      alignment: 9
+      pivot: {x: 0.38522726, y: 0.45411766}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f3cbf5e454f3e70800000000000000
+      internalID: 9097065975227629321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10004
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 1789
+        width: 125
+        height: 255
+      alignment: 9
+      pivot: {x: 0.3988, y: 0.44235295}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 138baae24c30c2940800000000000000
+      internalID: 5272593404875421745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10005
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1791
+        width: 120
+        height: 253
+      alignment: 9
+      pivot: {x: 0.41541666, y: 0.42608696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529f212bf2d5a79b0800000000000000
+      internalID: -5081646770101749467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10006
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 1793
+        width: 116
+        height: 251
+      alignment: 9
+      pivot: {x: 0.42974135, y: 0.42151394}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005a8150a982e9930800000000000000
+      internalID: 4151800548457751808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10007
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1795
+        width: 113
+        height: 249
+      alignment: 9
+      pivot: {x: 0.45884955, y: 0.41285142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5749fad224f3b60800000000000000
+      internalID: 7727968249577764319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10008
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1797
+        width: 115
+        height: 247
+      alignment: 9
+      pivot: {x: 0.47695652, y: 0.4040486}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4f236fe113cd70800000000000000
+      internalID: 9062106595058469978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10009
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1801
+        width: 119
+        height: 243
+      alignment: 9
+      pivot: {x: 0.4945378, y: 0.3942387}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80877fabdbd693f0800000000000000
+      internalID: -894285739398299509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10010
+      rect:
+        serializedVersion: 2
+        x: 1327
+        y: 1802
+        width: 122
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5151639, y: 0.3876033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978bd116763256760800000000000000
+      internalID: 7450400085472295033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10011
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 1805
+        width: 124
+        height: 239
+      alignment: 9
+      pivot: {x: 0.52298385, y: 0.38828453}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407f6ef0cfc85cc70800000000000000
+      internalID: 8990747245341505284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10012
+      rect:
+        serializedVersion: 2
+        x: 1581
+        y: 1802
+        width: 128
+        height: 242
+      alignment: 9
+      pivot: {x: 0.5300781, y: 0.3958678}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066d850fc620e21a0800000000000000
+      internalID: -6832520917762386336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10013
+      rect:
+        serializedVersion: 2
+        x: 1713
+        y: 1799
+        width: 131
+        height: 245
+      alignment: 9
+      pivot: {x: 0.5255725, y: 0.40326533}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 989dc4608856e4860800000000000000
+      internalID: 7516056463023593865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10014
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 1796
+        width: 132
+        height: 248
+      alignment: 9
+      pivot: {x: 0.5443182, y: 0.4104839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c435389862737c9a0800000000000000
+      internalID: -6212936522278939828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10015
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1534
+        width: 133
+        height: 250
+      alignment: 9
+      pivot: {x: 0.55526316, y: 0.4192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e7da26960d8c380800000000000000
+      internalID: -8950675108353180115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10016
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1533
+        width: 131
+        height: 251
+      alignment: 9
+      pivot: {x: 0.5484733, y: 0.425498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8ee8356a498e120800000000000000
+      internalID: 2443366239935850714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10017
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1532
+        width: 130
+        height: 252
+      alignment: 9
+      pivot: {x: 0.5373077, y: 0.43174604}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a574f54fd5a4930800000000000000
+      internalID: 4128215312590396000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10018
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1532
+        width: 130
+        height: 252
+      alignment: 9
+      pivot: {x: 0.52192307, y: 0.4357143}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0d77b352e2c7270800000000000000
+      internalID: 8249519354882281684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10019
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1532
+        width: 130
+        height: 252
+      alignment: 9
+      pivot: {x: 0.49884614, y: 0.43968254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5441d493927575300800000000000000
+      internalID: 240756939654239301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10020
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 1533
+        width: 130
+        height: 251
+      alignment: 9
+      pivot: {x: 0.48346153, y: 0.44143426}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bef9d7722ab6fb0800000000000000
+      internalID: -4653447499462218882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10021
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1534
+        width: 131
+        height: 250
+      alignment: 9
+      pivot: {x: 0.4645038, y: 0.4352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75aaf4a6e34dfd80800000000000000
+      internalID: -8215335487364487809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10022
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1535
+        width: 130
+        height: 249
+      alignment: 9
+      pivot: {x: 0.445, y: 0.42891568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a55c28f069d43140800000000000000
+      internalID: 4698619321758012835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10023
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 1534
+        width: 130
+        height: 250
+      alignment: 9
+      pivot: {x: 0.39884615, y: 0.42720002}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 925d9d86ee8fc5080800000000000000
+      internalID: -9197202636152384215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10024
+      rect:
+        serializedVersion: 2
+        x: 1215
+        y: 1532
+        width: 137
+        height: 252
+      alignment: 9
+      pivot: {x: 0.38576642, y: 0.4277778}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8effbb299dd55ae70800000000000000
+      internalID: 9125803408987258856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10025
+      rect:
+        serializedVersion: 2
+        x: 1356
+        y: 1531
+        width: 142
+        height: 253
+      alignment: 9
+      pivot: {x: 0.37218308, y: 0.42608696}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b40b79775d9fc250800000000000000
+      internalID: 5967161030315017393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10026
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 1531
+        width: 146
+        height: 253
+      alignment: 9
+      pivot: {x: 0.36198628, y: 0.4221344}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b787100e7a3b40800000000000000
+      internalID: 5420783640353683254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10027
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 1533
+        width: 149
+        height: 251
+      alignment: 9
+      pivot: {x: 0.3614094, y: 0.41354582}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bde7e1c13cb49c0800000000000000
+      internalID: -3941842523294606557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10028
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1536
+        width: 155
+        height: 248
+      alignment: 9
+      pivot: {x: 0.3732258, y: 0.40241936}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce20e02d7218476b0800000000000000
+      internalID: -5299468853480389908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10029
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1281
+        width: 155
+        height: 246
+      alignment: 9
+      pivot: {x: 0.36677417, y: 0.39349595}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e27236d8c1307a00800000000000000
+      internalID: 752155876427723490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10030
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1284
+        width: 155
+        height: 243
+      alignment: 9
+      pivot: {x: 0.36677417, y: 0.381893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b6e444ff01c61c0800000000000000
+      internalID: -4509210438356014179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10031
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1286
+        width: 154
+        height: 241
+      alignment: 9
+      pivot: {x: 0.36915582, y: 0.38091287}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 520096f0d1ca53e50800000000000000
+      internalID: 6788521254143459365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10032
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1283
+        width: 153
+        height: 244
+      alignment: 9
+      pivot: {x: 0.36503267, y: 0.38442624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2085835b9433bb2f0800000000000000
+      internalID: -956114104220100606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10033
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1282
+        width: 152
+        height: 245
+      alignment: 9
+      pivot: {x: 0.3674342, y: 0.38693878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1e8b90ac69c6570800000000000000
+      internalID: 8461303594412990916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10034
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1279
+        width: 155
+        height: 248
+      alignment: 9
+      pivot: {x: 0.38612902, y: 0.3983871}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2b3f2af8fa2730800000000000000
+      internalID: 3975263374525803432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10035
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1278
+        width: 158
+        height: 249
+      alignment: 9
+      pivot: {x: 0.3977848, y: 0.40883535}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48afc692d6ec6b00800000000000000
+      internalID: 823286624049670218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10036
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1278
+        width: 160
+        height: 249
+      alignment: 9
+      pivot: {x: 0.40531248, y: 0.4168675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3e61c1470989290800000000000000
+      internalID: -7883392319350184991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10037
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1278
+        width: 159
+        height: 249
+      alignment: 9
+      pivot: {x: 0.41415092, y: 0.42891568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9018e395879427b00800000000000000
+      internalID: 824802463004393737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10038
+      rect:
+        serializedVersion: 2
+        x: 1441
+        y: 1277
+        width: 160
+        height: 250
+      alignment: 9
+      pivot: {x: 0.43031248, y: 0.4352}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9522cc2db012b3020800000000000000
+      internalID: 2322486367504573017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10039
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1275
+        width: 161
+        height: 252
+      alignment: 9
+      pivot: {x: 0.4400621, y: 0.43968254}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f570ee9d1671f0800000000000000
+      internalID: -1047617295109197782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Occurrence Cycle-course-avec-saut 10040
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1274
+        width: 160
+        height: 253
+      alignment: 9
+      pivot: {x: 0.4428125, y: 0.4458498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a7689dcebe6de10800000000000000
+      internalID: 2222222868648196639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Occurrence Cycle-course-avec-saut 10025: 5967161030315017393
+      Occurrence Cycle-course-avec-saut 10001: 8251505191280581710
+      Occurrence Cycle-course-avec-saut 10026: 5420783640353683254
+      Occurrence Cycle-course-avec-saut 10002: 6654308857124617042
+      Occurrence Cycle-course-avec-saut 10035: 823286624049670218
+      Occurrence Cycle-course-avec-saut 10009: -894285739398299509
+      Occurrence Cycle-course-avec-saut 10034: 3975263374525803432
+      Occurrence Cycle-course-avec-saut 10019: 240756939654239301
+      Occurrence Cycle-course-avec-saut 10031: 6788521254143459365
+      Occurrence Cycle-course-avec-saut 10018: 8249519354882281684
+      Occurrence Cycle-course-avec-saut 10032: -956114104220100606
+      Occurrence Cycle-course-avec-saut 10003: 9097065975227629321
+      Occurrence Cycle-course-avec-saut 10011: 8990747245341505284
+      Occurrence Cycle-course-avec-saut 10033: 8461303594412990916
+      Occurrence Cycle-course-avec-saut 10005: -5081646770101749467
+      Occurrence Cycle-course-avec-saut 10022: 4698619321758012835
+      Occurrence Cycle-course-avec-saut 10020: -4653447499462218882
+      Occurrence Cycle-course-avec-saut 10004: 5272593404875421745
+      Occurrence Cycle-course-avec-saut 10023: -9197202636152384215
+      Occurrence Cycle-course-avec-saut 10006: 4151800548457751808
+      Occurrence Cycle-course-avec-saut 10014: -6212936522278939828
+      Occurrence Cycle-course-avec-saut 10010: 7450400085472295033
+      Occurrence Cycle-course-avec-saut 10017: 4128215312590396000
+      Occurrence Cycle-course-avec-saut 10013: 7516056463023593865
+      Occurrence Cycle-course-avec-saut 10036: -7883392319350184991
+      Occurrence Cycle-course-avec-saut 10038: 2322486367504573017
+      Occurrence Cycle-course-avec-saut 10024: 9125803408987258856
+      Occurrence Cycle-course-avec-saut 10028: -5299468853480389908
+      Occurrence Cycle-course-avec-saut 10030: -4509210438356014179
+      Occurrence Cycle-course-avec-saut 10039: -1047617295109197782
+      Occurrence Cycle-course-avec-saut 10008: 9062106595058469978
+      Occurrence Cycle-course-avec-saut 10016: 2443366239935850714
+      Occurrence Cycle-course-avec-saut 10015: -8950675108353180115
+      Occurrence Cycle-course-avec-saut 10021: -8215335487364487809
+      Occurrence Cycle-course-avec-saut 10027: -3941842523294606557
+      Occurrence Cycle-course-avec-saut 10012: -6832520917762386336
+      Occurrence Cycle-course-avec-saut 10037: 824802463004393737
+      Occurrence Cycle-course-avec-saut 10040: 2222222868648196639
+      Occurrence Cycle-course-avec-saut 10000: -4135337962523222453
+      Occurrence Cycle-course-avec-saut 10029: 752155876427723490
+      Occurrence Cycle-course-avec-saut 10007: 7727968249577764319
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

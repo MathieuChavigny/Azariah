@@ -1,0 +1,1004 @@
+fileFormatVersion: 2
+guid: f75cd5cdb21c43f4b857ab2bfa06188c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VoleurIdle0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b0ddca2ad10f790800000000000000
+      internalID: -7498460795049800957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0001
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3399374b2b150d0800000000000000
+      internalID: -3435768552603700314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0002
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9406f45706e6f6300800000000000000
+      internalID: 247537865092718665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0003
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e54807c611596c60800000000000000
+      internalID: 7811864186921174501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0004
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d33aa879bb5dff0800000000000000
+      internalID: -11897164458148489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0005
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca4e516376375c60800000000000000
+      internalID: 7806768348252752584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0006
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1b75309b5370b40800000000000000
+      internalID: 5406348946422870486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0007
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91fab04c704021f80800000000000000
+      internalID: -8137437145304682727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0008
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea4c31d15a3ece60800000000000000
+      internalID: 7984383312451619560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0009
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583bff34e9959db40800000000000000
+      internalID: 5465498159071343493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0010
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dc8d613c9ac9650800000000000000
+      internalID: 6241049838995688755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0011
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acbd009f8408d5300800000000000000
+      internalID: 242491005851458506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0012
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ead9d2595e24d30800000000000000
+      internalID: 4414343013654703765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0013
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28331ef475e0bf4f0800000000000000
+      internalID: -794025141135658110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0014
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1771
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb888573e9bda8990800000000000000
+      internalID: -7382847166540642113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0015
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b28056919ae75a0800000000000000
+      internalID: -6521589283851588709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0016
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8907a72084f3b08f0800000000000000
+      internalID: -573294949047832424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0017
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb120148806230bb0800000000000000
+      internalID: -4971087745669652034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0018
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79385ba405f3a280800000000000000
+      internalID: -9033107027171722884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0019
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58f80c9aa728d620800000000000000
+      internalID: 2799030782126520415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0020
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9252cce3045df99f0800000000000000
+      internalID: -459414165060311767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0021
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10e785bef76d4900800000000000000
+      internalID: 670306263213006879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0022
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5ad07189ef1cd20800000000000000
+      internalID: 3297196331387168236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0023
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266135fbe1bb65c90800000000000000
+      internalID: -7181346815062370718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0024
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdeb799c0bfc2580800000000000000
+      internalID: -8850423136156652085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0025
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f929e41cb84fb3720800000000000000
+      internalID: 2827122072185901727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0026
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb4deab2f32bbf30800000000000000
+      internalID: 4592303770459524071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0027
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f371389c3682e9f0800000000000000
+      internalID: -440642218719349770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0028
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f0e5baac00b3e090800000000000000
+      internalID: -8006362144084467463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0029
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1494
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8487acf8bf2dcc20800000000000000
+      internalID: 3228288979453838478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0030
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88bc29e4ce2157750800000000000000
+      internalID: 6301964059714702216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0031
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834c7684b7df378f0800000000000000
+      internalID: -543812424044133320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0032
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff4bd94081350c40800000000000000
+      internalID: 5477838948830760949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0033
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82104a521d3b66410800000000000000
+      internalID: 1470060039244087592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0034
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e6a8f7ecb888930800000000000000
+      internalID: 4145717176013844103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0035
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e75d84d674cd89280800000000000000
+      internalID: -9036230452984621698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0036
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feedbb6eb000b5d0800000000000000
+      internalID: -3048936129878429960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0037
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f28d950229a2ff0800000000000000
+      internalID: -60074977372131467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0038
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7214862078ef2d0800000000000000
+      internalID: -3243006237251393607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurIdle0039
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 1217
+        width: 128
+        height: 273
+      alignment: 9
+      pivot: {x: 0.4363281, y: 0.47545788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b70a61f32c652730800000000000000
+      internalID: 3973701147854243764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VoleurIdle0013: -794025141135658110
+      VoleurIdle0006: 5406348946422870486
+      VoleurIdle0038: -3243006237251393607
+      VoleurIdle0031: -543812424044133320
+      VoleurIdle0022: 3297196331387168236
+      VoleurIdle0025: 2827122072185901727
+      VoleurIdle0021: 670306263213006879
+      VoleurIdle0033: 1470060039244087592
+      VoleurIdle0029: 3228288979453838478
+      VoleurIdle0003: 7811864186921174501
+      VoleurIdle0027: -440642218719349770
+      VoleurIdle0016: -573294949047832424
+      VoleurIdle0007: -8137437145304682727
+      VoleurIdle0000: -7498460795049800957
+      VoleurIdle0005: 7806768348252752584
+      VoleurIdle0008: 7984383312451619560
+      VoleurIdle0023: -7181346815062370718
+      VoleurIdle0015: -6521589283851588709
+      VoleurIdle0018: -9033107027171722884
+      VoleurIdle0026: 4592303770459524071
+      VoleurIdle0034: 4145717176013844103
+      VoleurIdle0035: -9036230452984621698
+      VoleurIdle0010: 6241049838995688755
+      VoleurIdle0019: 2799030782126520415
+      VoleurIdle0028: -8006362144084467463
+      VoleurIdle0024: -8850423136156652085
+      VoleurIdle0002: 247537865092718665
+      VoleurIdle0017: -4971087745669652034
+      VoleurIdle0004: -11897164458148489
+      VoleurIdle0012: 4414343013654703765
+      VoleurIdle0039: 3973701147854243764
+      VoleurIdle0030: 6301964059714702216
+      VoleurIdle0020: -459414165060311767
+      VoleurIdle0014: -7382847166540642113
+      VoleurIdle0001: -3435768552603700314
+      VoleurIdle0037: -60074977372131467
+      VoleurIdle0036: -3048936129878429960
+      VoleurIdle0032: 5477838948830760949
+      VoleurIdle0011: 242491005851458506
+      VoleurIdle0009: 5465498159071343493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

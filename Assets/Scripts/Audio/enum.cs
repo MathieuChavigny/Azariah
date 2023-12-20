@@ -1,0 +1,1 @@
+public enum TypePiste { musiqueBase=0, musiqueEvenA=1, musiqueEvenB=2 ,musiqueMenu=3 } // enum pour les types des pistes  #tp4 (Alex Guilbault)

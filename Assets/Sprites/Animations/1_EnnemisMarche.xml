@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="1_EnnemisMarche.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VoleurAnimMarche0000" x="4" y="4" width="176" height="271" pivotX="82.7" pivotY="143.2"/>
+	<SubTexture name="VoleurAnimMarche0001" x="184" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0002" x="364" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0003" x="544" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0004" x="724" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0005" x="904" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0006" x="1084" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0007" x="1264" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0008" x="1444" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0009" x="1624" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0010" x="1804" y="4" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0011" x="4" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0012" x="184" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0013" x="364" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0014" x="544" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0015" x="724" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0016" x="904" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0017" x="1084" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0018" x="1264" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0019" x="1444" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0020" x="1624" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0021" x="1804" y="279" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0022" x="4" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0023" x="184" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0024" x="364" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0025" x="544" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0026" x="724" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0027" x="904" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0028" x="1084" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0029" x="1264" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0030" x="1444" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0031" x="1624" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0032" x="1804" y="554" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0033" x="4" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0034" x="184" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0035" x="364" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0036" x="544" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0037" x="724" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0038" x="904" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0039" x="1084" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0040" x="1264" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0041" x="1444" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0042" x="1624" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0043" x="1804" y="829" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0044" x="4" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0045" x="184" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0046" x="364" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0047" x="544" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0048" x="724" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0049" x="904" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0050" x="1084" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0051" x="1264" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0052" x="1444" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0053" x="1624" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0054" x="1804" y="1104" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0055" x="4" y="1379" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0056" x="184" y="1379" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0057" x="364" y="1379" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0058" x="544" y="1379" width="176" height="271"/>
+	<SubTexture name="VoleurAnimMarche0059" x="724" y="1379" width="176" height="271"/>
+</TextureAtlas>

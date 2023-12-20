@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ennemi_2Idle.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MagicienIdle0000" x="4" y="4" width="130" height="265" pivotX="53.45" pivotY="140.4"/>
+	<SubTexture name="MagicienIdle0001" x="138" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0002" x="272" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0003" x="406" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0004" x="540" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0005" x="674" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0006" x="808" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0007" x="942" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0008" x="1076" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0009" x="1210" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0010" x="1344" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0011" x="1478" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0012" x="1612" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0013" x="1746" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0014" x="1880" y="4" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0015" x="4" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0016" x="138" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0017" x="272" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0018" x="406" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0019" x="540" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0020" x="674" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0021" x="808" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0022" x="942" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0023" x="1076" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0024" x="1210" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0025" x="1344" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0026" x="1478" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0027" x="1612" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0028" x="1746" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0029" x="1880" y="273" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0030" x="4" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0031" x="138" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0032" x="272" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0033" x="406" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0034" x="540" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0035" x="674" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0036" x="808" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0037" x="942" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0038" x="1076" y="542" width="130" height="265"/>
+	<SubTexture name="MagicienIdle0039" x="1210" y="542" width="130" height="265"/>
+</TextureAtlas>

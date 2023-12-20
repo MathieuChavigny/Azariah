@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sol
+  - Fleche
+  - Enemie
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - TuilesBloc
+  - Objets
+  - Sol
+  - Player
+  - Boss
+  - Ennemi
+  - Fleche
+  - Minimap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: UI
+    uniqueID: 2135291901
+    locked: 0
+  - name: TuilesFond
+    uniqueID: 3823906681
+    locked: 0
+  - name: TuilesDevant
+    uniqueID: 266683019
+    locked: 0
+  - name: Objets
+    uniqueID: 615655035
+    locked: 0
+  - name: Ennemi
+    uniqueID: 2906675109
+    locked: 0
+  - name: Perso
+    uniqueID: 886307049
+    locked: 0
+  - name: Minimap
+    uniqueID: 3314177615
+    locked: 0

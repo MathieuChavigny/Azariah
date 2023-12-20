@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2_EnnemisAttaque.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MagicienAnimAttaque0000" x="4" y="4" width="159" height="262" pivotX="53.45" pivotY="140.4"/>
+	<SubTexture name="MagicienAnimAttaque0001" x="167" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0002" x="330" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0003" x="493" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0004" x="656" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0005" x="819" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0006" x="982" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0007" x="1145" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0008" x="1308" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0009" x="1471" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0010" x="1634" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0011" x="1797" y="4" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0012" x="4" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0013" x="167" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0014" x="330" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0015" x="493" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0016" x="656" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0017" x="819" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0018" x="982" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0019" x="1145" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0020" x="1308" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0021" x="1471" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0022" x="1634" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0023" x="1797" y="270" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0024" x="4" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0025" x="167" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0026" x="330" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0027" x="493" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0028" x="656" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0029" x="819" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0030" x="982" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0031" x="1145" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0032" x="1308" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0033" x="1471" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0034" x="1634" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0035" x="1797" y="536" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0036" x="4" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0037" x="167" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0038" x="330" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0039" x="493" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0040" x="656" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0041" x="819" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0042" x="982" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0043" x="1145" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0044" x="1308" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0045" x="1471" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0046" x="1634" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0047" x="1797" y="802" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0048" x="4" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0049" x="167" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0050" x="330" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0051" x="493" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0052" x="656" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0053" x="819" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0054" x="982" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0055" x="1145" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0056" x="1308" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0057" x="1471" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0058" x="1634" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0059" x="1797" y="1068" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0060" x="4" y="1334" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0061" x="167" y="1334" width="159" height="262"/>
+	<SubTexture name="MagicienAnimAttaque0062" x="330" y="1334" width="159" height="262"/>
+</TextureAtlas>

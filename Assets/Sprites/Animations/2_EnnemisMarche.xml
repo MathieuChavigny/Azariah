@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="2_EnnemisMarche.png">
+	<!-- Created with Adobe Animate version 23.0.2.103 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="MagicienAnimMarche0000" x="4" y="4" width="179" height="266" pivotX="78.85" pivotY="140.4"/>
+	<SubTexture name="MagicienAnimMarche0001" x="187" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0002" x="370" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0003" x="553" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0004" x="736" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0005" x="919" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0006" x="1102" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0007" x="1285" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0008" x="1468" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0009" x="1651" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0010" x="1834" y="4" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0011" x="4" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0012" x="187" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0013" x="370" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0014" x="553" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0015" x="736" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0016" x="919" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0017" x="1102" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0018" x="1285" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0019" x="1468" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0020" x="1651" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0021" x="1834" y="274" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0022" x="4" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0023" x="187" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0024" x="370" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0025" x="553" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0026" x="736" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0027" x="919" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0028" x="1102" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0029" x="1285" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0030" x="1468" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0031" x="1651" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0032" x="1834" y="544" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0033" x="4" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0034" x="187" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0035" x="370" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0036" x="553" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0037" x="736" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0038" x="919" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0039" x="1102" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0040" x="1285" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0041" x="1468" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0042" x="1651" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0043" x="1834" y="814" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0044" x="4" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0045" x="187" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0046" x="370" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0047" x="553" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0048" x="736" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0049" x="919" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0050" x="1102" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0051" x="1285" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0052" x="1468" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0053" x="1651" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0054" x="1834" y="1084" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0055" x="4" y="1354" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0056" x="187" y="1354" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0057" x="370" y="1354" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0058" x="553" y="1354" width="179" height="266"/>
+	<SubTexture name="MagicienAnimMarche0059" x="736" y="1354" width="179" height="266"/>
+</TextureAtlas>

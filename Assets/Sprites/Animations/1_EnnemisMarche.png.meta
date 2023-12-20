@@ -1,0 +1,1444 @@
+fileFormatVersion: 2
+guid: 63ab19a571fbf9f42bc5b9f0fb5b553d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VoleurAnimMarche0000
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1639c601e86a470800000000000000
+      internalID: 8405561955725828515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0001
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b907b58b55ee1f340800000000000000
+      internalID: 4895956321861071003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0002
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11376fd9f09591020800000000000000
+      internalID: 2312977807241016081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0003
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da75c46f4fc42f50800000000000000
+      internalID: 6855832472664767187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0004
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8109227b747efaeb0800000000000000
+      internalID: -4706288790377689064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0005
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64eb8929af4debec0800000000000000
+      internalID: -3549165283654975930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0006
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bd048d352a74190800000000000000
+      internalID: -7978229733869430014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0007
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef744e130906ba50800000000000000
+      internalID: 6536421818172211180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0008
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 065cc18875e1e2210800000000000000
+      internalID: 1310017902905967968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0009
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee5cb61740407e50800000000000000
+      internalID: 6805009711025118952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0010
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1773
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd7d6bce8adf2a0800000000000000
+      internalID: -6702014935824081997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0011
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a47258a2bcc48e20800000000000000
+      internalID: 3352029090370712739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0012
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2373ee0dbf93399f0800000000000000
+      internalID: -462962582984181966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0013
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63e4e9dd81d2aa0800000000000000
+      internalID: -6184259373187057982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0014
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb191a981f0113c0800000000000000
+      internalID: -4390711563370554383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0015
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa10fb87e68a6990800000000000000
+      internalID: -7391947509331911937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0016
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952b3b880785e7070800000000000000
+      internalID: 8106013619666530905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0017
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86db57ac96bb81e00800000000000000
+      internalID: 1015767779014720872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0018
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f3d0f5009c714d0800000000000000
+      internalID: -3163839209772597416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0019
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d613f9814ccbb78b0800000000000000
+      internalID: -5153317798182702739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0020
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6479387fa1d0b910800000000000000
+      internalID: 1851209998415787119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0021
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1498
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c16f401a986d5bf40800000000000000
+      internalID: 5743732786381256220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0022
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e137b7841e17160800000000000000
+      internalID: 7021640995472350873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0023
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910d97acd36d5d720800000000000000
+      internalID: 2870435898396889113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0024
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cd3c264d620f160800000000000000
+      internalID: 7057183309721492630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0025
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d211ab744ed522770800000000000000
+      internalID: 8584527074758889773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0026
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39e301f0147cf520800000000000000
+      internalID: 2737190289646283070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0027
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afcf491734c53e7a0800000000000000
+      internalID: -6349129604924113670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0028
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef7aee162cf0cd50800000000000000
+      internalID: 6755676681713385448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0029
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 179d630e52fe8cec0800000000000000
+      internalID: -3546321760599746191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0030
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c77de80839e4d5c40800000000000000
+      internalID: 5502640715140618108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0031
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53a6744e943502e0800000000000000
+      internalID: -2160262591896181924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0032
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 1223
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64a855dbdacedda80800000000000000
+      internalID: -8440329895672444346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0033
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d818bc5b2dfb7a3d0800000000000000
+      internalID: -3195374498882027123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0034
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4a8940b0d1fa560800000000000000
+      internalID: 7327107051914044634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0035
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcd1b9a242b252ed0800000000000000
+      internalID: -2439496188817629749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0036
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717d07330a18835d0800000000000000
+      internalID: -3082571419877320937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0037
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3651fc2f316ac50800000000000000
+      internalID: 6676045431200637930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0038
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2ac6c7863f8d890800000000000000
+      internalID: -7432923554885360928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0039
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d663bb8bfb7e690800000000000000
+      internalID: -7572873448264405755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0040
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac395d58854f3d460800000000000000
+      internalID: 7265419284918408138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0041
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1171077c7977072a0800000000000000
+      internalID: -6741757148403853551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0042
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70f7a6baed202d90800000000000000
+      internalID: -7124644124390068102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0043
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 948
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd4c91edaca08530800000000000000
+      internalID: 3855271143843581428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0044
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dd28f2de03eaf80800000000000000
+      internalID: -8093477685075714737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0045
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cb4f5aa0c25d8b0800000000000000
+      internalID: -5128144176445866928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0046
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: def0fcb3a8e37f440800000000000000
+      internalID: 4969509477256466413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0047
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22e9db9df2353690800000000000000
+      internalID: -7623130729431834068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0048
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff8ea5ed5eda0ce0800000000000000
+      internalID: -1438092636124704779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0049
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 022583342a60d3ed0800000000000000
+      internalID: -2432780929727966688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0050
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a03e1dd4bc485290800000000000000
+      internalID: -7901481206533967709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0051
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647e429782c47f4e0800000000000000
+      internalID: -1948004577099585722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0052
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64909c5303eb5d750800000000000000
+      internalID: 6329173965609175366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0053
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3a98b2ec4c45ef90800000000000000
+      internalID: -6925044958907295172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0054
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 673
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28329b2fdc7bf35b0800000000000000
+      internalID: -5386384534143425662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0055
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 398
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dae967b705a3c90800000000000000
+      internalID: -7189345363942265508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0056
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 398
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dbf229711a631c70800000000000000
+      internalID: 8940606308539890643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0057
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 398
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03f04f77413ee5b0800000000000000
+      internalID: -5337274325240057077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0058
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 398
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec68162fde2e4acf0800000000000000
+      internalID: -241818968369559858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VoleurAnimMarche0059
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 398
+        width: 176
+        height: 271
+      alignment: 9
+      pivot: {x: 0.46988633, y: 0.47158673}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43f4fb51c3d61c3e0800000000000000
+      internalID: -2035225451764429004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      VoleurAnimMarche0008: 1310017902905967968
+      VoleurAnimMarche0017: 1015767779014720872
+      VoleurAnimMarche0047: -7623130729431834068
+      VoleurAnimMarche0055: -7189345363942265508
+      VoleurAnimMarche0040: 7265419284918408138
+      VoleurAnimMarche0038: -7432923554885360928
+      VoleurAnimMarche0052: 6329173965609175366
+      VoleurAnimMarche0016: 8106013619666530905
+      VoleurAnimMarche0020: 1851209998415787119
+      VoleurAnimMarche0018: -3163839209772597416
+      VoleurAnimMarche0037: 6676045431200637930
+      VoleurAnimMarche0036: -3082571419877320937
+      VoleurAnimMarche0049: -2432780929727966688
+      VoleurAnimMarche0045: -5128144176445866928
+      VoleurAnimMarche0053: -6925044958907295172
+      VoleurAnimMarche0001: 4895956321861071003
+      VoleurAnimMarche0024: 7057183309721492630
+      VoleurAnimMarche0005: -3549165283654975930
+      VoleurAnimMarche0025: 8584527074758889773
+      VoleurAnimMarche0046: 4969509477256466413
+      VoleurAnimMarche0051: -1948004577099585722
+      VoleurAnimMarche0021: 5743732786381256220
+      VoleurAnimMarche0027: -6349129604924113670
+      VoleurAnimMarche0042: -7124644124390068102
+      VoleurAnimMarche0003: 6855832472664767187
+      VoleurAnimMarche0044: -8093477685075714737
+      VoleurAnimMarche0054: -5386384534143425662
+      VoleurAnimMarche0028: 6755676681713385448
+      VoleurAnimMarche0014: -4390711563370554383
+      VoleurAnimMarche0050: -7901481206533967709
+      VoleurAnimMarche0011: 3352029090370712739
+      VoleurAnimMarche0015: -7391947509331911937
+      VoleurAnimMarche0012: -462962582984181966
+      VoleurAnimMarche0006: -7978229733869430014
+      VoleurAnimMarche0019: -5153317798182702739
+      VoleurAnimMarche0034: 7327107051914044634
+      VoleurAnimMarche0013: -6184259373187057982
+      VoleurAnimMarche0002: 2312977807241016081
+      VoleurAnimMarche0023: 2870435898396889113
+      VoleurAnimMarche0057: -5337274325240057077
+      VoleurAnimMarche0056: 8940606308539890643
+      VoleurAnimMarche0000: 8405561955725828515
+      VoleurAnimMarche0009: 6805009711025118952
+      VoleurAnimMarche0043: 3855271143843581428
+      VoleurAnimMarche0059: -2035225451764429004
+      VoleurAnimMarche0010: -6702014935824081997
+      VoleurAnimMarche0004: -4706288790377689064
+      VoleurAnimMarche0026: 2737190289646283070
+      VoleurAnimMarche0048: -1438092636124704779
+      VoleurAnimMarche0033: -3195374498882027123
+      VoleurAnimMarche0058: -241818968369559858
+      VoleurAnimMarche0032: -8440329895672444346
+      VoleurAnimMarche0022: 7021640995472350873
+      VoleurAnimMarche0029: -3546321760599746191
+      VoleurAnimMarche0035: -2439496188817629749
+      VoleurAnimMarche0007: 6536421818172211180
+      VoleurAnimMarche0031: -2160262591896181924
+      VoleurAnimMarche0039: -7572873448264405755
+      VoleurAnimMarche0030: 5502640715140618108
+      VoleurAnimMarche0041: -6741757148403853551
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
